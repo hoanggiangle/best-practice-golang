@@ -39,3 +39,6 @@ Using
     golint main.go
 
 - [Code formatting using gofmt](https://golang.org/cmd/gofmt/)
+
+## Github
+- [https://github.com/henrmota/errors-handling-example](https://github.com/henrmota/errors-handling-example)
