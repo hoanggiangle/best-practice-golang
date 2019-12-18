@@ -42,3 +42,11 @@ Using
 
 ## Github
 - [https://github.com/henrmota/errors-handling-example](https://github.com/henrmota/errors-handling-example)
+
+## Rabbitmq
+
+- [rabbitmq-best-practices](https://medium.com/@shivama205/rabbitmq-best-practices-67a27ef72a57)
+- [rabbitmq commom errors](https://www.cloudamqp.com/blog/2018-01-19-part4-rabbitmq-13-common-errors.html)
+
+## learn basic
+- [How to use slice capacity and length in Go](https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/)
