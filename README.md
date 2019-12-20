@@ -1,5 +1,8 @@
 # Go Best Practices
 
+## Talks.golang
+
+- [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#24)
 
 ## Resources
 - [go proverbs](https://go-proverbs.github.io)
